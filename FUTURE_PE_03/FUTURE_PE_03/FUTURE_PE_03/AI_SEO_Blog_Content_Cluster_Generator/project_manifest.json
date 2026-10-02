@@ -1,0 +1,13 @@
+{
+  "project": "AI SEO Blog & Content Cluster Generator for Business Websites",
+  "example_niche": "Dental Clinic",
+  "location": "Kolkata, West Bengal, India",
+  "deliverables": {
+    "pillar_blogs": 1,
+    "supporting_blogs": 4,
+    "prompt_templates": 7,
+    "strategy_docs": 5,
+    "workflow_docs": 3
+  },
+  "note": "Keyword volume/difficulty values are intentionally not fabricated and should be validated with current SEO tools."
+}
